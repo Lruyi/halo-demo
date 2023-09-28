@@ -1,4 +1,4 @@
-package com.halo.demo.remote.client;
+package com.halo.demo.client;
 
 import com.halo.demo.dto.CommonServerResult;
 import com.halo.demo.remote.req.StudentSummaryReq;

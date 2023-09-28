@@ -1,4 +1,4 @@
-package com.halo.demo.remote.resp;
+package com.halo.demo.resp;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

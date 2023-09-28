@@ -1,4 +1,4 @@
-package com.halo.demo.constan;
+package com.halo.demo.constans;
 
 /**
  * @Description:

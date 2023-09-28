@@ -1,4 +1,4 @@
-package com.halo.demo.remote.req;
+package com.halo.demo.req;
 
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;

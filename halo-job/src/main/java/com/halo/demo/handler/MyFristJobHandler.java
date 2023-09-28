@@ -1,4 +1,4 @@
-package com.halo.demo.job;
+package com.halo.demo.handler;
 
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.context.XxlJobHelper;

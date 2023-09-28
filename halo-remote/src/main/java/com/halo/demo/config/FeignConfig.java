@@ -1,4 +1,4 @@
-package com.halo.demo.remote.config;
+package com.halo.demo.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import feign.Logger;
