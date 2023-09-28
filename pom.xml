@@ -16,6 +16,12 @@
 
     <modules>
         <module>halo-rest</module>
+        <module>halo-core</module>
+        <module>halo-remote</module>
+        <module>halo-job</module>
+        <module>halo-common</module>
+        <module>halo-dao</module>
+        <module>halo-pojo</module>
     </modules>
 
     <properties>
