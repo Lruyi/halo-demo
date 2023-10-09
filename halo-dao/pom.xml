@@ -15,13 +15,13 @@
         <dependency>
             <groupId>com.halo.demo</groupId>
             <artifactId>halo-pojo</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>${parent.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.halo.demo</groupId>
             <artifactId>halo-common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>${parent.version}</version>
         </dependency>
 
         <!--mysql驱动-->
