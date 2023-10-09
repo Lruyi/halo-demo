@@ -1,9 +1,9 @@
 package com.halo.demo.controller;
 
 import com.halo.demo.dto.ServerResult;
-import com.halo.demo.remote.client.LessonClient;
-import com.halo.demo.remote.req.StudentSummaryReq;
-import com.halo.demo.remote.resp.StudentLessonSummaryResp;
+import com.halo.demo.client.LessonClient;
+import com.halo.demo.req.StudentSummaryReq;
+import com.halo.demo.resp.StudentLessonSummaryResp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PostMapping;

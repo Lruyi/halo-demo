@@ -1,6 +1,6 @@
 package com.halo.demo.config;
 
-import com.halo.demo.constan.Constant;
+import com.halo.demo.constans.Constant;
 import feign.RequestInterceptor;
 import feign.RequestTemplate;
 

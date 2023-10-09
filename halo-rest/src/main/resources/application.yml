@@ -32,7 +32,7 @@ spring:
             readTimeout: 5000
             loggerLevel: full
             requestInterceptors:
-              - com.halo.demo.remote.config.XesOriginRequestInterceptor
+              - com.halo.demo.config.XesOriginRequestInterceptor
 
 
 ## 远程服务配置

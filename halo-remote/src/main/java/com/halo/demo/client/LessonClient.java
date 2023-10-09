@@ -1,8 +1,8 @@
 package com.halo.demo.client;
 
 import com.halo.demo.dto.CommonServerResult;
-import com.halo.demo.remote.req.StudentSummaryReq;
-import com.halo.demo.remote.resp.StudentLessonSummaryResp;
+import com.halo.demo.req.StudentSummaryReq;
+import com.halo.demo.resp.StudentLessonSummaryResp;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
